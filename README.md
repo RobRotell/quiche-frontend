@@ -1,2 +1,2 @@
 # quiche-frontend
-Frontend for Quiche money-taking app
+Frontend for Quiche expense-tracking app
